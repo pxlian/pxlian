@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title desc">
+  <title id="title">Repository languages - awaiting first update</title>
+  <desc id="desc">Language data will be generated from public repositories after the profile workflow first runs. This placeholder contains no example percentages.</desc>
+  <rect x=".5" y=".5" width="494" height="194" rx="5" fill="#fff" stroke="#d1d9e0"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="24" y="34" font-size="18" font-weight="600" fill="#024282">Repository Languages</text>
+    <text x="24" y="86" font-size="13" fill="#59636e">Awaiting the first update</text>
+    <text x="24" y="114" font-size="12" fill="#59636e">Public repository data · no percentages loaded</text>
+    <text x="24" y="178" font-size="11" fill="#59636e">Language composition does not measure proficiency</text>
+  </g>
+</svg>
